@@ -29,7 +29,7 @@
 
   <groupId>maven-org.mybatis</groupId>
   <version>maven-6.0.2-SNAPSHOT</version>
-  <artifactId>maven-jpetstore</artifactId>
+  <artifactId>maven-jpetstore-dev</artifactId>
   <packaging>war</packaging>
 
    <name>JPetStore Demo 6</name>
